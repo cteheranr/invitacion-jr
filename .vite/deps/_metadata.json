@@ -1,0 +1,40 @@
+{
+  "hash": "6fafd746",
+  "configHash": "9c2496db",
+  "lockfileHash": "a6bade65",
+  "browserHash": "92f25cb3",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "151cabd7",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "2dd9e69e",
+      "needsInterop": true
+    },
+    "moment": {
+      "src": "../../node_modules/moment/dist/moment.js",
+      "file": "moment.js",
+      "fileHash": "86acab52",
+      "needsInterop": false
+    },
+    "moment/locale/es": {
+      "src": "../../node_modules/moment/locale/es.js",
+      "file": "moment_locale_es.js",
+      "fileHash": "8916a93c",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-YN6WXVUO": {
+      "file": "chunk-YN6WXVUO.js"
+    },
+    "chunk-VUNV25KB": {
+      "file": "chunk-VUNV25KB.js"
+    }
+  }
+}
