@@ -48,6 +48,10 @@
   justify-content: center;
 }
 
+.info p {
+  font-size: 20px;
+}
+
 .button-55 {
   border-radius: 20px;
 }

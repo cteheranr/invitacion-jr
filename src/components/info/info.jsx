@@ -15,7 +15,7 @@ export default function Info() {
             </div>
             <div className="info">
               <h3>Parroquia de Nuestra Señora de la Consolata</h3>
-              <p>Cartagena, Bolívar</p>
+              <p>4:00 p.m.</p>
             </div>
             <a href="https://maps.app.goo.gl/goWpmNgH7Ct3zWic6" target="blank">
               <button className="button-55">Como llegar</button>
@@ -28,7 +28,7 @@ export default function Info() {
             </div>
             <div className="info">
               <h3>Salón de Eventos Veleros</h3>
-              <p>Cartagena, Bolívar</p>
+              <p>7:00 p.m.</p>
             </div>
             <a href="https://maps.app.goo.gl/PFNHkCBvsjgbTKSN7" target="blank">
               <button className="button-55">Como llegar</button>
