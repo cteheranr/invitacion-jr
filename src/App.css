@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  /* font-family: "Edu NSW ACT Hand Pre", cursive; */
+  font-optical-sizing: auto;
+  font-style: normal;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  /* font-family: "Gilda Display", serif; */
+  font-weight: 400;
+  font-style: normal;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  /* font-family: "Edu NSW ACT Hand Pre", cursive; */
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.bodyy {
+  max-width: 540px;
+}

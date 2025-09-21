@@ -1,0 +1,29 @@
+.container_incon_play {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.container_incon_play img {
+  max-width: 70%;
+  object-fit: cover;
+}
+
+.text-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.text-container img {
+  display: flex;
+  width: 70%;
+}
+ 
+.musica p {
+  margin: 15px 10px 10px;
+  text-align: center;
+  font-size: 12px;
+}
